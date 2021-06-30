@@ -1,3 +1,9 @@
+/**
+ * @https://legendcoin.finance
+ * @https://twitter.com/legendcoinone
+ * @https://t.me/LegendCoinBsc
+ */
+
 // SPDX-License-Identifier: MIT
 
 pragma solidity ^0.6.12;
